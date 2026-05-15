@@ -1,2 +1,2 @@
 # ARIMA-Analysis
-arima analysis using the WADEPS public dataset
+ARIMA analysis using the WADEPS public dataset
